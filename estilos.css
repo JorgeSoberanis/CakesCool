@@ -1,0 +1,82 @@
+body{
+
+    background-color: rgb(251, 192, 255);
+    
+}
+.h1,h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: coral;
+    
+}
+
+#titulo{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+article{
+    text-align: center;
+    /*border: solid 1px cornflowerblue;*/
+    margin-top: 5px;
+}
+
+.layout {
+    width: 100%;
+  
+    display: flex;
+    gap: 16px;
+    /*border: solid 1px red;*/
+  }
+  
+  .grow1 { flex-grow: 1; font-family:Arial, Helvetica, sans-serif;
+    color:rgb(249, 28, 139)
+}
+
+#chocolate{
+    width:150px;
+    height:150px;
+}
+
+.registro{
+    width: 400px;
+    background: #5c98d4;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: white;
+
+}
+.p ,h4{
+    font-size: 20px;
+    margin-top: 20px;
+}   
+
+.controls{
+
+    width: 100%;
+    background: #ffffff;
+    padding: auto;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.botons{
+    width: 100%;
+    background: #37afe2;
+    border: none;
+    border-color: black;
+    padding: 12px;
+    color: rgb(242, 242, 242);
+    margin: 16px 0;
+    font-size: 16px;
+
+}
+
+  
